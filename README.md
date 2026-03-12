@@ -1,6 +1,6 @@
 # 🎹 Browser Keyboard Synthesizer
 
-A simple **browser-based synthesizer** built with the **Web Audio API**.  
+A simple **browser-based synthesizer** built with the **Web Audio API** hosted on lizradway.github.io/web-audio-keyboard-synth.
 You can play musical notes using your **computer keyboard**, change the waveform, and experiment with basic sound synthesis.
 
 This project demonstrates how to generate sound in the browser using oscillators and gain nodes.
